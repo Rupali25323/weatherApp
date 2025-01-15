@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.weather-container{
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: aquamarine;
+ text-align: center;
+ height: 300px;
+}
+input{
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 6px;
+  height: 28px;
+  text-align: center;
+ justify-content: center;
+
+}
+button{
+  margin-top: 12px;
+  font-size: 12px;
+  font-weight: 500px;
+}
+.weather-info{
+  margin-top: 40px;
+}
+.weather-info p{
+  margin-top: 4px;
+}
